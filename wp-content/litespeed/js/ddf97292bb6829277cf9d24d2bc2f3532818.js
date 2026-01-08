@@ -1,0 +1,5 @@
+window.addEventListener("load",()=>{var esp=document.getElementById("es-students");var eng=document.getElementById("en-students");if(window.location.href.indexOf('/es/')>0){esp.style.cssText='display:block;';eng.style.cssText='display:none;'}
+if(eng){eng.style.cssText='display:block;';esp.style.cssText='display:none;'}
+if(document.getElementById("wpadminbar")){document.getElementById("site-navigation").classList.add("adminbarspace")}
+var x=document.getElementById("wp-admin-bar-logout");if(x){var val=x.querySelector("a").getAttribute("href");document.getElementById("primary-menu").lastElementChild.querySelector("a").setAttribute("href",val)}});(function(){var t=function(){const mainNav=document.getElementById("site-navigation");if(mainNav){const bodyRect=document.body.getBoundingClientRect(),elemRect=mainNav.getBoundingClientRect(),offset=elemRect.top-bodyRect.top;if(offset>100){mainNav.classList.add("navbar-shrink")}else{mainNav.classList.remove("navbar-shrink")}}};window.addEventListener("scroll",t,!1)})()
+;
