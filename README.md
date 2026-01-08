@@ -69,13 +69,13 @@ We work with youth who are:
 ## 🤝 Get Involved
 
 ### For Youth & Families
-- 📝 **Student Sign Up:** Text "Pathways" to `833-392-4053` or visit our [registration page](pathways/index.html)
+- 📝 **Student Sign Up:** Text "Pathways" to `833-392-4053` or visit our [registration page](https://fourcornersgroup.net/pathways/)
 - 📞 **Contact:** `470-210-1625` or `info@fourcornersgroup.net`
 
 ### For Supporters
-- 💰 **Donate:** Help us provide pathways to thriving adulthood ([Donate Now](give/index.html))
-- 🙋 **Volunteer:** Join our team and make a lasting impact ([Volunteer](volunteer/index.html))
-- 🎉 **Events:** Attend our annual Sneaker Ball gala ([Learn More](sneakerball/index.html))
+- 💰 **Donate:** Help us provide pathways to thriving adulthood ([Donate Now](https://fourcornersgroup.net/give/))
+- 🙋 **Volunteer:** Join our team and make a lasting impact ([Volunteer](https://fourcornersgroup.net/volunteer/))
+- 🎉 **Events:** Attend our annual Sneaker Ball gala ([Learn More](https://fourcornersgroup.net/sneakerball/))
 
 ---
 
